@@ -1,1 +1,29 @@
-/* add your CSS here */
+p, ul {
+  font-size: 13px;
+  margin: 12px 10px 12px 10px;
+  padding:0px;
+}
+
+.fact {font-style: italic;}
+
+ul {
+  list-style: none;
+  text-align:left;
+}
+
+li span {font-weight: bold;}
+
+.info {
+  margin: 10px 0px 0px 0px;
+  border: 1px solid #ccc;
+  padding:7px 0px 7px 0px;
+  background-color: #fff;
+}
+
+.main {
+  width:300px;
+  background-color: #bcedff;
+  border:1px solid #005777;
+  box-shadow: 5px 5px 5px #005777;
+  padding:0px 10px 10px 10px;
+}
